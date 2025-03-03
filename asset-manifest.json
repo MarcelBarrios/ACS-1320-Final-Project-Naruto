@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarcelBarrios.github.io/ACS-1320-Final-Project-Naruto/static/css/main.993d5eb3.css",
+    "main.js": "/MarcelBarrios.github.io/ACS-1320-Final-Project-Naruto/static/js/main.9566a80c.js",
+    "static/js/453.151b718a.chunk.js": "/MarcelBarrios.github.io/ACS-1320-Final-Project-Naruto/static/js/453.151b718a.chunk.js",
+    "index.html": "/MarcelBarrios.github.io/ACS-1320-Final-Project-Naruto/index.html",
+    "main.993d5eb3.css.map": "/MarcelBarrios.github.io/ACS-1320-Final-Project-Naruto/static/css/main.993d5eb3.css.map",
+    "main.9566a80c.js.map": "/MarcelBarrios.github.io/ACS-1320-Final-Project-Naruto/static/js/main.9566a80c.js.map",
+    "453.151b718a.chunk.js.map": "/MarcelBarrios.github.io/ACS-1320-Final-Project-Naruto/static/js/453.151b718a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993d5eb3.css",
+    "static/js/main.9566a80c.js"
+  ]
+}
