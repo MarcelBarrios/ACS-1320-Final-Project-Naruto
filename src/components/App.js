@@ -1,9 +1,9 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import Home from './pages/Home';
-import CharacterDetails from './pages/CharacterDetails';
-import About from './pages/About';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import Navbar from './Navbar/Navbar';
+import Footer from './Footer/Footer';
+import Home from './Home/Home';
+import CharacterDetails from './CharacterDetails/CharacterDetails';
+import About from './About/About';
 import './App.css';
 
 function App() {

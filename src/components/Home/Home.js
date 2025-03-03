@@ -18,13 +18,18 @@ function Home() {
             <div className="characters-grid">
                 {characters.map(character => (
                     <Link to={`/character/${character.id}`} key={character.id} className="character-card">
-                        <img src={character.images[0]} alt={character.name} className="character-image" />
+                        {character.images && character.images.length > 0 ? (
+                            <img src={character.images[0]} alt={character.name} className="character-image" />
+                        ) : (
+                            <p className="no-image">No image available</p>
+                        )}
                         <h2 className="character-name">{character.name}</h2>
                     </Link>
                 ))}
             </div>
         </div>
     );
+
 }
 
 export default Home;
