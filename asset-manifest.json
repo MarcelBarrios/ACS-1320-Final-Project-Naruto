@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ACS-1320-Final-Project-Naruto/static/css/main.993d5eb3.css",
-    "main.js": "/ACS-1320-Final-Project-Naruto/static/js/main.08768a67.js",
+    "main.css": "/ACS-1320-Final-Project-Naruto/static/css/main.817a44e5.css",
+    "main.js": "/ACS-1320-Final-Project-Naruto/static/js/main.fcfaa3af.js",
     "static/js/453.151b718a.chunk.js": "/ACS-1320-Final-Project-Naruto/static/js/453.151b718a.chunk.js",
     "index.html": "/ACS-1320-Final-Project-Naruto/index.html",
-    "main.993d5eb3.css.map": "/ACS-1320-Final-Project-Naruto/static/css/main.993d5eb3.css.map",
-    "main.08768a67.js.map": "/ACS-1320-Final-Project-Naruto/static/js/main.08768a67.js.map",
+    "main.817a44e5.css.map": "/ACS-1320-Final-Project-Naruto/static/css/main.817a44e5.css.map",
+    "main.fcfaa3af.js.map": "/ACS-1320-Final-Project-Naruto/static/js/main.fcfaa3af.js.map",
     "453.151b718a.chunk.js.map": "/ACS-1320-Final-Project-Naruto/static/js/453.151b718a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.993d5eb3.css",
-    "static/js/main.08768a67.js"
+    "static/css/main.817a44e5.css",
+    "static/js/main.fcfaa3af.js"
   ]
 }
