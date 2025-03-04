@@ -4,9 +4,9 @@ import './Navbar.css';
 function Navbar() {
     return (
         <nav className="navbar">
-            <div className="navbar-container">
-                <Link to="/" className="navbar-title">Naruto Characters</Link>
-                <div className="navbar-links">
+            <div className="container">
+                <Link to="/" className="title">Naruto Characters</Link>
+                <div className="links">
                     <Link to="/" className="nav-link">Home</Link>
                     <Link to="/about" className="nav-link">About</Link>
                 </div>

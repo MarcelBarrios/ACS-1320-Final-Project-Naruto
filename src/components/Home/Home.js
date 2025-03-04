@@ -13,8 +13,8 @@ function Home() {
     }, []);
 
     return (
-        <div className="home-container">
-            <h1 className="home-title">Naruto Characters</h1>
+        <div className="Home">
+            <h1 className="title">Naruto Characters</h1>
             <div className="characters-grid">
                 {characters.map(character => (
                     <Link to={`/character/${character.id}`} key={character.id} className="character-card">

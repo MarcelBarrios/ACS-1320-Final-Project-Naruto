@@ -8,7 +8,7 @@
     text-align: center;
 }
 
-.about-container h1 {
+.about-container .about-container h1 {
     font-size: 2rem;
     color: #333;
     margin-bottom: 15px;

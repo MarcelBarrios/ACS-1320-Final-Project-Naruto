@@ -1,25 +1,25 @@
-.home-container {
+.Home {
     text-align: center;
     padding: 20px;
     padding-bottom: 8rem;
     margin: 0% 10%;
 }
 
-.home-title {
+.Home .title {
     font-size: 2.5rem;
     font-weight: bold;
     margin-bottom: 20px;
     color: #ff9800;
 }
 
-.characters-grid {
+.Home .characters-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     padding: 20px;
 }
 
-.character-card {
+.Home .character-card {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -31,19 +31,20 @@
     color: aliceblue;
 }
 
-.character-card:hover {
+.Home .character-card:hover {
     transform: scale(1.05);
 }
 
-.character-image {
+.Home .character-image {
     width: 100%;
     height: auto;
-    max-width: 180px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     object-fit: cover;
+    margin: 4px 0px 0px;
+    /* top: 4px, right: 0, bottom: 0, left: 0 */
 }
 
-.character-name {
+.Home .character-name {
     font-size: 1.2rem;
     margin-top: 10px;
     color: aliceblue;

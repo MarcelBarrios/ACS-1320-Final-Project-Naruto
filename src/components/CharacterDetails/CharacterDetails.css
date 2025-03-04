@@ -8,13 +8,13 @@
     text-align: center;
 }
 
-.character-name-details {
+.character-details-container .character-name-details {
     font-size: 2rem;
     color: #333;
     margin-bottom: 10px;
 }
 
-.character-image {
+.character-details-container .character-image {
     width: 100%;
     max-width: 300px;
     height: auto;
@@ -22,21 +22,21 @@
     margin: 15px 0;
 }
 
-.character-description {
+.character-details-container .character-description {
     font-size: 1.2rem;
     color: #666;
     line-height: 1.5;
     margin-bottom: 15px;
 }
 
-.character-info {
+.character-details-container .character-info {
     text-align: left;
     background: #f9f9f9;
     padding: 15px;
     border-radius: 10px;
 }
 
-.character-info p {
+.character-details-container .character-info p {
     font-size: 1rem;
     color: #444;
     margin: 5px 0;
